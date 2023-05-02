@@ -1,5 +1,5 @@
 package com.bridgelabz;
-
+import java.util.Scanner;
 public class SnakeLadder {
     static int INITIAL_POSITION = 0;
     static final int WINING_POSITION = 100;
